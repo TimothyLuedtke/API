@@ -15,14 +15,11 @@ TheHunt is a node server that uses Express.js, MongoDB, and Passport.js.
 
 ## Installation
 
-To install necessary dependencies, run the following command:
-\`\`\`
-npm i
-\`\`\`
+Clone the repo, open the API folder, and run the command `npm install` to install the necessary dependencies.
 
 ## Usage
 
-To use this application, clone the repo, open the API folder, and run the command \`npm i\` to install the necessary dependencies. Enter your MongoDB key in .env.mock file, and remove the '.mock' from the file name. Then, run the command \`npm start\` to start the server.
+Enter your MongoDB key in .env.mock file, and remove the '.mock' from the file name. Then, run the command \`npm start\` to start the server.
 
 ## License
 
