@@ -1,0 +1,13 @@
+.required-label::after {
+  content: " *required";
+  color: red;
+}
+
+input:invalid {
+  border: 1px solid red;
+}
+
+/* input:valid {
+    border: 2px solid green;
+  }
+   */
