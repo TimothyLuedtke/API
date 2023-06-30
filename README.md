@@ -4,6 +4,8 @@
 
 A node server used to track different phases of job hunting. Users can keep track of their job applications, interviews, offers, communications, and contacts. This server uses an extended modeling system based on the Contractr project.
 
+TheHunt is a node server that uses Express.js, MongoDB, and Passport.js.
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -20,7 +22,7 @@ npm i
 
 ## Usage
 
-TheHunt is a node server that uses Express.js, MongoDB, and Passport.js. To use this application, clone the repo, open the API folder, and run the command \`npm i\` to install the necessary dependencies. Enter your MongoDB key in .env.mock file, and remove the '.mock' from the file name. Then, run the command \`npm start\` to start the server.
+To use this application, clone the repo, open the API folder, and run the command \`npm i\` to install the necessary dependencies. Enter your MongoDB key in .env.mock file, and remove the '.mock' from the file name. Then, run the command \`npm start\` to start the server.
 
 ## License
 
